@@ -14,4 +14,6 @@ TextInput: Allows user input via a text field.
 
 FlatList: Efficiently renders and handles large lists of data.
 
+update
+
 ![Screenshot](https://github.com/user-attachments/assets/80642b74-c53e-45ae-ba17-1d9e56fa1191)
