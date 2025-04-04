@@ -2,10 +2,10 @@ import React from 'react';
 import {StyleSheet, Text,View,Image,TextInput,FlatList,} from 'react-native';
 import { MaterialIcons } from '@expo/vector-icons'; 
 
-const profileIcon =require('./assets/person.jpg');
+const profileIcon =require('./assets/profileIcon.jpg');
 const filterIcon =require('./assets/filterIcon.jpg');
-const taskImage1 = require('./assets/image1.jpg');
-const taskImage2 = require('./assets/image2.jpg');
+const taskImage1 = require('./assets/taskImage1.jpg');
+const taskImage2 = require('./assets/taskImage2.jpg');
 //const taskImage2 = require('./assets/Task1.png');
 
 // stylesheet of the screen created as a component
